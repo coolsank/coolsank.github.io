@@ -8,8 +8,8 @@ permalink:           pretty
 title:               Sanjay
 tagline:             'Technical Things'
 description:         'Blog'
-url:                 
-baseurl:             ''
+url:                 "https://sanjaykmenon.github.io"
+#baseurl:             ""
 paginate:            5
 
 # About/contact
