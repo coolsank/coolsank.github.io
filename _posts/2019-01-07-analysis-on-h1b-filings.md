@@ -1,8 +1,9 @@
 
 
 ---
-tags: [data analysis, visa, web scraping, python]
+
 ---
+
 
 
 The idea behind this blogpost is to teach myself some data analysis in Python and hopefully be useful to someone who reads this as well.
