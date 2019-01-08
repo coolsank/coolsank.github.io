@@ -1,7 +1,6 @@
 
 
 ---
-layout: post
 title:  "Basic Exploratory Analysis on H1B Filings"
 ---
 
