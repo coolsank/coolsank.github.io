@@ -7,6 +7,10 @@ import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
 ```
+{% highlight python %}
+x = ('a', 1, False)
+{% endhighlight %}
+
 
 
 ```python
