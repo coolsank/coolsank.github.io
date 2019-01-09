@@ -638,9 +638,9 @@ plt.show()
 ```
 
 
-![png]({{"/images/categories/output_29_0.png"|absolute_url}})
+![png]({({{ site.url }}/images/output_38_0.png)
 
-{% include image.html file="output_29_0.png" url="https://sanjaykmenon.github.io/_posts/images/output_27_0.png" alt="Graph1" caption="This is a sample caption" %}
+
 
 
 ```python
