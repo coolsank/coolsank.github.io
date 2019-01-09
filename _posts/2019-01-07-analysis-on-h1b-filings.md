@@ -479,7 +479,7 @@ df.head()
 </style>
 <table border="1" class="dataframe" width="100%">
   <thead>
-    <tr style="text-align: right;">
+    <tr style="text-align: center;">
       <th></th>
       <th>company</th>
       <th>position_title</th>
