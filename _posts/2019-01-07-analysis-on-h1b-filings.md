@@ -638,7 +638,8 @@ plt.show()
 ```
 
 
-![png](_posts/images/output_29_0.png){:class="img-responsive"}
+![png](coolsank.github.io/_posts/images/output_29_0.png){:class="img-responsive"}
+
 
 
 
