@@ -638,7 +638,7 @@ plt.show()
 ```
 
 
-![png](/images/output_29_0.png){:class="img-responsive"}
+![png](_posts/images/output_29_0.png){:class="img-responsive"}
 
 
 
